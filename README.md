@@ -8,7 +8,8 @@
 
 # 站点使用指南
 - 热点事件页面右上角 **要点|时间、相关资料** 的按钮可以切换内容
-- 左上角导航栏的**A**按钮可以调整文字
+- 左上角导航栏的 **A** 按钮可以调整文字
+- 左上角导航栏的 <i class="fa fa-columns"></i> 可以分栏阅读，视觉效果更好一些
 - 左上角导航栏的第一个按钮，可以折叠左边章节列表
 - 左边章节列表的宽度可以调节
 
@@ -25,3 +26,9 @@
 - 如果页面内容有错漏修改的地方，请到github页面提交issue，留言可能会漏掉
 - 有推荐的书籍和好的相关研究论文阅读笔记，欢迎分享推荐。
 - （未来要是有相关背景也有这方面兴趣的小伙伴，可以留言商讨一起协同编辑……）
+
+<head>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>
+</head>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
